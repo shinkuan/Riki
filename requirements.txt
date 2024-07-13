@@ -1,0 +1,5 @@
+mitmproxy==10.3.0
+loguru==0.7.2
+requests==2.32.3
+--find-links https://github.com/shinkuan/Akagi/releases/expanded_assets/v0.1.1-libriichi
+riichi>=0.1.1
