@@ -1,0 +1,7 @@
+__pycache__
+*.pth
+*.whl
+*.log
+venv
+
+bot_3p
